@@ -10,19 +10,6 @@ Smart Files is a Python application that simplifies file management through a gr
 - **Organize Files**: Sort files into folders by their extensions.
 - **Compress Files**: Compress files older than a specified age into a zip archive.
 
-## Requirements
-- Python 3.x
-- Tkinter
-- Pillow (Python Imaging Library)
-- Windows OS (due to use of batch scripts and PowerShell commands)
-
-## Installation
-1. Ensure Python 3.x is installed on your system.
-2. Install the required libraries using pip:
-   ```sh
-   pip install tkinter pillow
-   ```
-
 ## Usage
 1. Run the `Smart Files` executable or the main Python script.
 2. Use the GUI to select the desired directory and operation.
