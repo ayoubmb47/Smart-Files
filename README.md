@@ -11,7 +11,7 @@ Smart Files is a Python application that simplifies file management through a gr
 - **Compress Files**: Compress files older than a specified age into a zip archive.
 
 ## Usage
-1. Run the `Smart Files` executable or the main Python script.
+1. Run the `Smart Files` executable.
 2. Use the GUI to select the desired directory and operation.
 
 ### GUI Components
