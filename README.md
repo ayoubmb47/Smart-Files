@@ -58,11 +58,8 @@ The application is structured into several key functions:
 - **Run_command**: Determines which operation to run based on the selected option.
 
 ## Running the Application
-To run the application, execute the script using Python or double-click the compiled executable (.exe) if available.
+To run the application, execute the compiled executable (.exe).
 
-```sh
-python smart_files.py
-```
 
 ## GUI Navigation
 - **Main Frame**: Browse directory and navigate to options.
